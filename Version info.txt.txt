@@ -5,15 +5,15 @@ Version 1.0 - Basic fun commands without embeds
 
 
 Version 1.1 - Added - Basic fun commands with embeds
-            - Added - Ping command
-            - Added - Motivational Quote Command
+            - Added - Motivational Quote Command - Gives random motivational quotes 
             - Added - Music(info) command 
-            - Added - Version Command 
+            - Added - Version Command - Shows version of bot
 
 
 
 
 Version 1.2 - Added - More Advaced Basic commands with embeds
             - Added - Creator commands - Invite commands, Creator Discord profile
-	  
+	    - Added - Ping command - Shows the user's ping
+	    - Added - Github Version.txt file - Shows development progress of the bot based on Version ID
 		 	
