@@ -1,0 +1,19 @@
+Version 1.0 - Basic fun commands without embeds
+
+
+
+
+
+Version 1.1 - Added - Basic fun commands with embeds
+            - Added - Ping command
+            - Added - Motivational Quote Command
+            - Added - Music(info) command 
+            - Added - Version Command 
+
+
+
+
+Version 1.2 - Added - More Advaced Basic commands with embeds
+            - Added - Creator commands - Invite commands, Creator Discord profile
+	  
+		 	
