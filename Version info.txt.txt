@@ -17,3 +17,5 @@ Version 1.2 - Added - More Advaced Basic commands with embeds
 	    - Added - Ping command - Shows the user's ping
 	    - Added - Github Version.txt file - Shows development progress of the bot based on Version ID
 		 	
+Version 1.3 - Added - More Advaced Basic commands with embeds
+            - Added - 
