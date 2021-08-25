@@ -18,4 +18,7 @@ Version 1.2 - Added - More Advaced Basic commands with embeds
 	    - Added - Github Version.txt file - Shows development progress of the bot based on Version ID
 		 	
 Version 1.3 - Added - More Advaced Basic commands with embeds
-            - Added - 
+            - Added - Motivational Qutoes with embeds
+	    - Added - Voting command to vote for the bot
+	    - Added - Support Server for Mordex made with Server link command added
+	   
