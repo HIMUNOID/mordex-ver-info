@@ -34,4 +34,5 @@ Version 1.5 - Added - More Advanced Basic commands with embeds
 	    - Added - Moderation Commands('mute,unmute,userinfo,warn,afk')
 	    - Added - Website for Mordex link --> https://himuniod.carrd.co
 	    - Added - Fun commands like nickname change and say command
-	    
+	    - Added - Moderation commands added like - add roles,lock,unlock,etc) 
+	   
